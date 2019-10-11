@@ -7,6 +7,8 @@ public class Arc {
 
 		System.out.println("hiii.......bye,,,,");
 		System.out.println("cooooooooooolllllllllllllll");
+		System.out.println("cooooooooooo");
+
 
 
 	}
